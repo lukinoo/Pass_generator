@@ -18,9 +18,8 @@ passwords = []
 def random_nums():
     return random.choice(num)
 
-# # random letters handler
 
-
+# random letters handler
 def random_letters():
     return random.choice(letter)
 
